@@ -1,0 +1,6 @@
+body {
+    background-color: darkcyan; /* background warna */
+    background-size: cover; /* Untuk memastikan gambar mengisi seluruh latar belakang */
+    background-repeat: no-repeat; /* Mencegah gambar diulang */
+    background-attachment: fixed; /* Untuk memastikan latar belakang tetap tetap di tempat saat menggulir halaman */
+}
