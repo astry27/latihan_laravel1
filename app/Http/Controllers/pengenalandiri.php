@@ -8,16 +8,16 @@ class pengenalandiri extends Controller
 {
     public function Dashboard()
     {
-        return view('halaman_depan');
+        return view('dashboard');
     }
 
     public function profilePembuat()
     {
-        return view('profile_pembuat');
+        return view('profile');
     }
 
     public function informasiKampus()
     {
-        return view('informasi_kampus');
+        return view('informasi');
     }
 }
